@@ -1,6 +1,6 @@
 # Task Management App
 
-Live Demo: [Task Management App](https://task-management-app-swart-nu.vercel.app)
+Live Demo: [Task Management App]()
 
 ## Technologies Used
 
@@ -73,7 +73,7 @@ This project is deployed on Vercel. To deploy your own instance:
 3. Set up environment variables in Vercel dashboard
 4. Vercel will automatically build and deploy your application
 
-Current deployment: [https://task-management-app-swart-nu.vercel.app](https://task-management-app-swart-nu.vercel.app)
+Current deployment: []()
 
 ## Project Structure
 
